@@ -1,1 +1,2 @@
-<img width="498" height="249" alt="green-aesthetic (1)" src="https://github.com/user-attachments/assets/c09f91de-06a4-4a29-b55e-ff22ef95b7bd" />
+<img width="498" height="280" alt="purple-aesthetic" src="https://github.com/user-attachments/assets/fea40ea5-4fbb-428d-83e8-3c8d96b81a06" />
+
