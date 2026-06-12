@@ -1,9 +1,10 @@
-<img width="700" height="300" alt="eremika-em (1)" src="https://github.com/user-attachments/assets/90865fb8-2da8-41a6-b3ed-ea423e736c56" />
+<img width="1067" height="460" alt="shingeki-no-kyojin-attack-on-titan" src="https://github.com/user-attachments/assets/3b834056-9539-4eea-9fe1-910506106b91" />
+
 
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADE8F4&center=true&vCenter=true&width=1200&size=35&lines=tudo+vai+dar+certo;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=765341&center=true&vCenter=true&width=1200&size=35&lines=tudo+vai+dar+certo;" />
 
 ## 
 ---
