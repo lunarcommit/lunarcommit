@@ -3,9 +3,9 @@
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#ADE8F4&center=true&vCenter=true&width=1200&size=35&lines=tudo+vai+dar+certo;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADE8F4&center=true&vCenter=true&width=1200&size=35&lines=tudo+vai+dar+certo;" />
 
-## Isabeluda
+## 
 ---
 **ETEC Vasco Antonio Venchiarutti- Desenvolvimento de Sistemas**
 <p>uma alma saudável habita, um corpo e uma mente saudáveis.</p>
