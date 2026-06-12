@@ -1,5 +1,4 @@
-<img width="374" height="242" alt="image" src="https://github.com/user-attachments/assets/e45c653b-6ee1-42fd-8e9b-5e917f35046c" />
-
+https://media1.tenor.com/m/tmIxrbUQW0kAAAAd/eremika-em.gif
 
 ---
 
