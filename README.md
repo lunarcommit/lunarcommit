@@ -1,4 +1,4 @@
-https://media1.tenor.com/m/tmIxrbUQW0kAAAAd/eremika-em.gif
+<img width="374" height="242" alt="eremika-em (1)" src="https://github.com/user-attachments/assets/90865fb8-2da8-41a6-b3ed-ea423e736c56" />
 
 ---
 
