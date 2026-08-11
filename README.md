@@ -5,7 +5,7 @@
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=060606&color=765341&center=true&vCenter=true&width=1200&size=35&lines=;"七転び八起き" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=000000&color=765341&center=true&vCenter=true&width=1200&size=35&lines=;+七転+び八+起き"/>
 
 ## 
 ---
