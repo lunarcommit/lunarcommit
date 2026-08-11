@@ -1,10 +1,11 @@
-<img width="1067" height="460" alt="itoshi-rin-blue-lock" src="https://github.com/user-attachments/assets/32fb0950-581a-4bf4-8197-dc0db1dcd48e" />
+<img width="1067" height="480" alt="jolyne-jolyne-cujo" src="https://github.com/user-attachments/assets/3fb2637a-4682-4907-b530-39e5097f405f" />
+ src="https://github.com/user-attachments/assets/32fb0950-581a-4bf4-8197-dc0db1dcd48e" />
 
 
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1A1819&color=765341&center=true&vCenter=true&width=1200&size=35&lines=tudo+vai+dar+certo;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=060606&color=765341&center=true&vCenter=true&width=1200&size=35&lines=;" />
 
 ## 
 ---
