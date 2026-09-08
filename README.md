@@ -13,3 +13,12 @@
 <p>uma alma saudável habita, um corpo e uma mente saudáveis.</p>
 
 
+## linguagens que utilizo atualmente.
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968222.png" width="90" alt="HTML">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo-black-and-white.png" width="90" alt="CSS">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" width="80" alt="C++">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" width="90" alt="Phyton">
+</div>
+
+
