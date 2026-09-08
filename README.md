@@ -9,8 +9,11 @@
 
 ## 
 ---
-**ETEC Vasco Antonio Venchiarutti- Desenvolvimento de Sistemas**
-<p>uma alma saudável habita, um corpo e uma mente saudáveis.</p>
+
+
+
+
+
 
 
 ## linguagens que utilizo atualmente.
