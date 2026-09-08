@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0047AB&center=true&vCenter=true&width=1200&size=35&lines=you+'+re+hot+,+cupcake+.;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0047AB&center=true&vCenter=true&width=1200&size=35&lines=be+yourself+,+don't+be+ashamed+.;" />
 
 ## 
 ---
