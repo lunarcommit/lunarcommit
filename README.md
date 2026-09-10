@@ -1,10 +1,11 @@
-<img width="980" height="470" alt="Post by @bamf · 4 images" src="https://github.com/user-attachments/assets/d7c09409-384f-4003-9a7f-bba1f24f5695" />
+<img width="1000" height="408" alt="download" src="https://github.com/user-attachments/assets/4ae2e64c-e6eb-4328-bce8-a8a50fcd6086" />
+
 
 
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0047AB&center=true&vCenter=true&width=1200&size=35&lines=be+yourself+,+don't+be+ashamed+.;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFBC61&center=true&vCenter=true&width=1200&size=35&lines=be+yourself+,+don't+be+ashamed+.;" />
 
 ## 
 ---
