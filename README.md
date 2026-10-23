@@ -1,4 +1,5 @@
-<img width="1000" height="408" alt="download" src="https://github.com/user-attachments/assets/4ae2e64c-e6eb-4328-bce8-a8a50fcd6086" />
+<img width="940" height="656" alt="bruno-bucciarati-clouds" src="https://github.com/user-attachments/assets/9b587ba6-5847-431e-8568-7ba71dbaa79f" />
+
 
 
 
